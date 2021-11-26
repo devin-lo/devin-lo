@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @devin-lo
 - 👀 I’m interested in solving problems in creative manners.
-- 🌱 I’m currently learning object-oriented programming.
+- 🌱 I’m currently learning C, Assembly/Verilog, data structures and algorithms.
+- 🧠 I have learned Object-Oriented programming in Java; and I have previous experience with JavaScript and Python.
 <!--- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: you can send me a GitHub message.
 
