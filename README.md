@@ -4,6 +4,7 @@
 - 🧠 I have learned Object-Oriented programming in Java as well as C, Assembly/Verilog, and I have previous experience with Python, VBA, MATLAB.
 <!--- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: you can send me a GitHub message.
+- 🎸 If you have a chance, check out my YouTube channel for my music covers!
 
 <!---
 devin-lo/devin-lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
